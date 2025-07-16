@@ -5,7 +5,7 @@ A structured SQL project designed to analyze international cricketers' performan
 
 ---
 
-## 📌 Features
+##  Features
 
 - ✅ **Relational Schema Design**
   - Tables: `Cricketers`, `Matches`, `BattingStats`, `BowlingStats`
@@ -30,7 +30,7 @@ A structured SQL project designed to analyze international cricketers' performan
 
 ---
 
-## 🧠 Technologies Used
+##  Technologies Used
 
 - MySQL
 - SQL (DDL, DML, Views, Stored Procedures)
